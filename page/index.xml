@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on もぶエンジニアの備忘録</title><link>https://M4YVC.github.io/page/</link><description>Recent content in Pages on もぶエンジニアの備忘録</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://M4YVC.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>このブログについて</title><link>https://M4YVC.github.io/about/</link><pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate><guid>https://M4YVC.github.io/about/</guid><description>&lt;img src="https://M4YVC.github.io/images/banner.jpg" alt="Featured image of post このブログについて" />&lt;p>主に自分用の備忘録として使用する予定です。&lt;/p>
+&lt;p>このブログは、&lt;a class="link" href="https://gohugo.io/" target="_blank" rel="noopener"
+>Hugo&lt;/a>で静的サイトを生成し、&lt;a class="link" href="https://docs.github.com/ja/pages" target="_blank" rel="noopener"
+>GitHub Pages&lt;/a>にホストしています。&lt;br/>
+ソースコードは&lt;a class="link" href="https://github.com/M4YVC" target="_blank" rel="noopener"
+>Github(@M4YVC)&lt;/a>に公開しています。&lt;/p>
+&lt;h2 id="免責事項">免責事項&lt;/h2>
+&lt;p>&lt;a class="link" href="https://M4YVC.github.io/" >当サイト&lt;/a>に掲載された内容によって生じた損害等の一切の責任を負いかねますので、ご了承下さい。&lt;/p>
+&lt;p>また、当サイトからリンクやバナーなどによって他のサイトに移動された場合、移動先サイトで提供される情報、サービス等について一切の責任も負いません。&lt;/p>
+&lt;hr>
+&lt;h2 id="プロフィール">プロフィール&lt;/h2>
+&lt;style>
+.profile-wrapper {
+display: flex;
+}
+.profile-wrapper > .profile-container {
+flex: 1;
+margin-left: 10px;
+}
+.profile-wrapper > img {
+object-fit: contain;
+object-position: top;
+width: 100px;
+}
+&lt;/style>
+&lt;div class="profile-wrapper">
+&lt;img src="https://github.com/M4YVC.png">
+&lt;div class="profile-container">
+&lt;a href="https://twitter.com/M4YVC" class="link">まゆしぃ (@M4YVC)&lt;/a>
+&lt;a href="https://twitter.com/M4YVC?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @M4YVC&lt;/a>
+&lt;script async src="https://platform.twitter.com/widgets.js">&lt;/script>
+　&lt;br/>
+組み込みソフトやWindowsアプリケーションの開発をしているもぶエンジニアです。
+&lt;/div>
+&lt;/div>
+&lt;h3 id="プログラミング関連">プログラミング関連&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>好きな言語&lt;/p>
+&lt;ul>
+&lt;li>C言語&lt;/li>
+&lt;li>C# +WPF(MVVMをよく使います)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;del>嫌い&lt;/del>苦手な言語&lt;/p>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>勉強中&lt;/p>
+&lt;ul>
+&lt;li>Python (+Flask)&lt;/li>
+&lt;li>Rust&lt;/li>
+&lt;li>Flutter&lt;/li>
+&lt;li>HTML/CSS -&amp;gt;WPFで書きたいよぉ。。。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>興味あり&lt;/p>
+&lt;ul>
+&lt;li>Solidity&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>C系の言語がメインなので、インタープリタ型や動的型付けの言語が苦手です。&lt;br/>
+ここに記載していない言語も、広く浅く触っています。&lt;/p>
+&lt;p>宗教上の理由でPythonが苦手です。インデントとグローバル宣言が特に許せません。&lt;/p>
+&lt;p>インフラやクラウド系はやらないのでまったくわかりません。流行りについていけない雑魚エンジニアです。&lt;/p>
+&lt;p>&lt;u>Pythonから逃げるな。&lt;/u> &amp;ndash;&amp;gt;&lt;/p>
+&lt;h3 id="趣味">趣味&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>ジム&lt;/p>
+&lt;p>エアロやボクササイズが好きです。球技も色々やります。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>投機・投資&lt;/p>
+&lt;p>FXや仮想通貨、流行りのX to Earnをやったり。&lt;br/>
+ブロックチェーン周りは技術はかなり興味があるので勉強したいところ。&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="お問い合わせ">お問い合わせ&lt;/h2>
+&lt;p>&lt;a href="https://twitter.com/messages/compose?recipient_id=M4YVC&amp;ref_src=twsrc%5Etfw" class="twitter-dm-button link" data-screen-name="@M4YVC" data-show-count="false">&lt;img style="vertical-align:middle;" alt="Twitter" src="https://M4YVC.github.io/icons/twitter-blue.svg" width="20px"/>まゆしぃ(@M4YVC)&lt;/a>へDMを送ってください。&lt;/p>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script></description></item><item><title>アーカイブ</title><link>https://M4YVC.github.io/archives/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://M4YVC.github.io/archives/</guid><description/></item><item><title>リンク</title><link>https://M4YVC.github.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://M4YVC.github.io/links/</guid><description>&lt;img src="https://M4YVC.github.io/images/banner.jpg" alt="Featured image of post リンク" /></description></item><item><title>検索</title><link>https://M4YVC.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://M4YVC.github.io/search/</guid><description/></item></channel></rss>
